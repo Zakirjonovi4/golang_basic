@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Добрый вечер!")
+	fmt.Println("Создал ветку develop и сделал первый коммит")
 }
